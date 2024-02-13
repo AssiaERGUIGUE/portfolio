@@ -39,6 +39,7 @@
 
 Working on the diabetic rethinopathy dataset from Kaggle, I navigated the most relevant types of segmentation to study these cases using a sample of ten pictures. 
 
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Computer vision project in agriculture](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
