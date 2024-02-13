@@ -37,10 +37,14 @@
 
 ### - Segmentation of medical images for diabetic retinopathy:
 
-Contrast enhancement, histogram equalization, noise elimination, and analysis segmentation. ""
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Contrast enhancement, histogram equalization, noise elimination, and analysis segmentation. 
+
+"https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation"
+
+![retino](/assets/img/eeg_band_discovery.jpeg)
 
 ### - Computer vision project in agriculture: 
+
 CNN, transfer learning...
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 ### - Development of an application for text summarization:
