@@ -64,6 +64,14 @@ The primary objective of this data science project is to develop a robust classi
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Diabetic rethinopathy segmentation](https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation)**
+
+Working on the diabetic rethinopathy dataset from Kaggle, I navigated the most relevant types of segmentation to study these cases using a sample of ten pictures.
+
+#
+
+
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
