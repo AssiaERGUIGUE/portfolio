@@ -60,6 +60,8 @@ Salaries based on employees data such as  on Kaggle.
 Working on the diabetic rethinopathy dataset from Kaggle, I navigated the most relevant types of segmentation to study these cases using a sample of ten pictures.
 
 
+
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Integrated Pest Management through Data-Driven Classification of Farm Insects, with Emphasis on Orange Canker Culprits](https://github.com/AssiaERGUIGUE/citrus-disease-classification-and-citrus-canker-detection)**
