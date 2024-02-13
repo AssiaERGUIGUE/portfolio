@@ -41,15 +41,16 @@ Contrast enhancement, histogram equalization, noise elimination, and analysis se
 
 "https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation"
 
-![retino](assets/Blog--text-summarization-for-nlp.png)
+![retino](assets/retino.png)
 
-### - Computer vision project in agriculture: 
+### - Integrated Pest Management through Data-Driven Classification of Farm Insects, with Emphasis on Orange Canker Culprits: 
 
 CNN, transfer learning...
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![citrus](assets/citrus.webp)
+
 ### - Development of an application for text summarization:
 Text mining and sentiment analysis using RNNs (LLMs, T5, BART...).
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Blog--text-summarization-for-nlp](assets/Blog--text-summarization-for-nlp.png)
 
 ### - Performance analysis using Power BI and Python
 
