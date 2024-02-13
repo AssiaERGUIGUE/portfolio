@@ -55,27 +55,6 @@ Salaries based on employees data such as  on Kaggle.
 
 ### - Performance analysis using Power BI and Python
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg">
-
-[Diabetic Retinopathy Segmentation](https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation)
-
-Working on the diabetic retinopathy dataset from Kaggle, I navigated the most relevant types of segmentation to study these cases using a sample of ten pictures.
-
----
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg">
-
-[Integrated Pest Management through Data-Driven Classification of Farm Insects, with Emphasis on Orange Canker Culprits](https://github.com/AssiaERGUIGUE/citrus-disease-classification-and-citrus-canker-detection)
-
-The primary objective of this data science project is to develop a robust classification system for farm insects, with special attention to identifying and differentiating the specific pests responsible for orange canker. By leveraging advanced machine learning algorithms and data analytics, we aim to create a predictive model that can accurately classify insect species based on their characteristics, behaviors, and potential impact on crops.
-
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Diabetic rethinopathy segmentation](https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation)**
-
-Working on the diabetic rethinopathy dataset from Kaggle, I navigated the most relevant types of segmentation to study these cases using a sample of ten pictures.
-
-
-
 
 #
 
