@@ -41,7 +41,7 @@ Contrast enhancement, histogram equalization, noise elimination, and analysis se
 
 "https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation"
 
-![retino](/assets/img/eeg_band_discovery.jpeg)
+![retino](assets/Blog--text-summarization-for-nlp.png)
 
 ### - Computer vision project in agriculture: 
 
