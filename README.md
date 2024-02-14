@@ -95,7 +95,8 @@ Text mining and sentiment analysis using RNNs (T5, BART...).
 ---
 
 ### Mario AI player: Reinforcement Learning
-[Publication]()
+[Publication](https://github.com/AssiaERGUIGUE/Mario-AI-player)
+
 This project was mainly made to familiarize with the concept of reinforcement learning as well as getting started with the gym framework and its environments such as Mariobros-V0
 
 ![mariobros](assets/mariobros.png)
