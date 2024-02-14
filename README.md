@@ -35,7 +35,7 @@
 
 ## Projects
 
-### - Segmentation of medical images for diabetic retinopathy:
+###  Segmentation of medical images for diabetic retinopathy:
 
 Contrast enhancement, histogram equalization, noise elimination, and analysis segmentation. 
 
@@ -43,7 +43,7 @@ Contrast enhancement, histogram equalization, noise elimination, and analysis se
 
 ![retino](assets/retino.png)
 
-### - Integrated Pest Management through Data-Driven Classification of Farm Insects, with Emphasis on Orange Canker Culprits: 
+###  Integrated Pest Management through Data-Driven Classification of Farm Insects, with Emphasis on Orange Canker Culprits: 
 
 CNN, transfer learning...
 
@@ -51,33 +51,33 @@ CNN, transfer learning...
 
 ---
 
-### - Development of an application for text summarization:
+###  Development of an application for text summarization:
 Text mining and sentiment analysis using RNNs (T5, BART...).
 
 ![Blog--text-summarization-for-nlp](assets/Blog--text-summarization-for-nlp.png)
 
 ---
 
-### - Performance analysis using Power BI and Python
+###  Performance analysis using Power BI and Python
 ![dash](assets/dash.png)
 ![dashboard](assets/dashboard.png)
 
 ---
 
-### - Classification and clustering project on the "Wisconsin breast cancer dataset" on Kaggle using Python.
+###  Classification and clustering project on the "Wisconsin breast cancer dataset" on Kaggle using Python.
 
 ---
 
-### - Preparation of a workshop on Bayesian machine learning.
+###  Preparation of a workshop on Bayesian machine learning.
 
 ---
 
-### - Creation of a predictive model:
+###  Creation of a predictive model:
 Salaries based on employees data such as  on Kaggle.
 
 ---
 
-### - Création d’une solution cloud E-social pour la gestion des factures deployé sur google cloud
+###  Création d’une solution cloud E-social pour la gestion des factures deployé sur google cloud
 
 
 
