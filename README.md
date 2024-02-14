@@ -2,6 +2,10 @@
 
 This portfolio serves as a comprehensive collection of some of my Data Science and Data Analysis projects undertaken for academic, self-learning, and hobbyist endeavors. Additionally, it encompasses my skills, and certificates. Regular updates are made to ensure its relevance.
 
+If interested in my profile, contact me using :
+- [Email](assiaer123@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/assia-erguigue-a0b92518a/?originalSubdomain=ma)
+
 #### Technical Skills: 
 - Python: sklearn, tensorflow,cv2,pandas, numpy, matplotlib,matplotly, scipy...
 - Power BI
