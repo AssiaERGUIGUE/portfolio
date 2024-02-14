@@ -39,21 +39,21 @@ If interested in my profile, contact me using :
 - Service Discovery
 - Handling internal software and responding to complaints.
 
-### Certificats: 
+## Certificats: 
 - Building Intelligent Virtual Agents with IBM Watson Assistant
 - HarvardX: CS50's Introduction to AI with Python.(ongoing)
 - HarvardX: CS50's Introduction to Databases with SQL.(ongoing)
 
-### Languages: 
+## Languages: 
 - Anglais: 7.5-C1 IELTS
 - French: B2
 - Arabic: Native
 
-### Conception methods: 
+## Conception methods: 
 - UML
 - MERISE
 
-### Work methods: 
+## Work methods: 
 - SCRUM(Agile)
 - ML/Ops: Machine Learning Operations
 - CI/CD: Continuous Deployment 
