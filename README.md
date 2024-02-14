@@ -98,7 +98,7 @@ Text mining and sentiment analysis using RNNs (T5, BART...).
 [Publication]()
 This project was mainly made to familiarize with the concept of reinforcement learning as well as getting started with the gym framework and its environments such as Mariobros-V0
 
-![mario bros](assets/mario bros.png)
+![mariobros](assets/mariobros.png)
 
 ---
 
