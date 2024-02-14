@@ -1,5 +1,7 @@
 # Data Scientist
 
+This portfolio serves as a comprehensive collection of some of my Data Science and Data Analysis projects undertaken for academic, self-learning, and hobbyist endeavors. Additionally, it encompasses my skills, and certificates. Regular updates are made to ensure its relevance.
+
 #### Technical Skills: 
 - Python: sklearn, tensorflow,cv2,pandas, numpy, matplotlib,matplotly, scipy...
 - Power BI
@@ -21,8 +23,8 @@
 - Data Modeling
 
 ## Education
-- Knowledge and data science ENGINEERING (2021 - 2024: Ongoing) at the School of Information Sciences(ESI) - Rabat
-- Classes préparatoires MPSI , at Lycée Selmane El Farissi - Salé
+- Knowledge and data science ENGINEERING (2021 - 2024: Ongoing) | School of Information Sciences(ESI) - Rabat
+- Classes préparatoires MPSI | Lycée Selmane El Farissi - Salé
 
 ## Work Experience
 **INTERNSHIP of application REDAL operated by VEOLIA  (_08/08/2023 - 08/09/2023_)** at the Information Systems Department
@@ -34,7 +36,7 @@
 - Handling internal software and responding to complaints.
 
 ### Certificats: 
--
+- Building Intelligent Virtual Agents with IBM Watson Assistant
 - HarvardX: CS50's Introduction to AI with Python.(ongoing)
 - HarvardX: CS50's Introduction to Databases with SQL.(ongoing)
 
@@ -43,6 +45,14 @@
 - French: B2
 - Arabic: Native
 
+### Conception methods: 
+- UML
+- MERISE
+
+### Work methods: 
+- SCRUM(Agile)
+- ML/Ops: Machine Learning Operations
+- CI/CD: Continuous Deployment 
 
 ## Projects:
 For more projects check my [github](https://github.com/AssiaERGUIGUE)
