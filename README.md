@@ -94,6 +94,14 @@ Text mining and sentiment analysis using RNNs (T5, BART...).
 
 ---
 
+### Mario AI player: Reinforcement Learning
+[Publication]()
+This project was mainly made to familiarize with the concept of reinforcement learning as well as getting started with the gym framework and its environments such as Mariobros-V0
+
+![mariobros](assets/mariobros.png)
+
+---
+
 ###  Bayesian classification and clustering project on the "Wisconsin breast cancer dataset" on Kaggle using Python.
 
 [Publication](https://github.com/AssiaERGUIGUE/Classification-SVM-breast-cancer)
