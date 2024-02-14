@@ -33,25 +33,39 @@
 - Service Discovery
 - Handling internal software and responding to complaints.
 
-## Projects
+### Certificats: 
+-
+- HarvardX: CS50's Introduction to AI with Python.(ongoing)
+- HarvardX: CS50's Introduction to Databases with SQL.(ongoing)
+
+### Languages: 
+- Anglais: 7.5-C1 IELTS
+- French: B2
+- Arabic: Native
+
+
+## Projects:
+For more projects check my [github](https://github.com/AssiaERGUIGUE)
 
 ###  Segmentation of medical images for diabetic retinopathy:
 
 Contrast enhancement, histogram equalization, noise elimination, and analysis segmentation. 
 
-"https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation"
+[Publication](https://github.com/AssiaERGUIGUE/diabetic-retinopathy-segmentation)
 
 ![retino](assets/retino.png)
 
-###  Integrated Pest Management through Data-Driven Classification of Farm Insects, with Emphasis on Orange Canker Culprits: 
+###  Integrated Pest Management through Data-Driven Classification of Farm Insects, with Emphasis on Orange Canker Culprits: CNN, transfer learning...
 
-CNN, transfer learning...
+[Publication](https://github.com/AssiaERGUIGUE/citrus-disease-classification-and-citrus-canker-detection)
 
 ![citrus](assets/citrus.webp)
 
 ---
 
 ###  Development of an application for text summarization:
+
+[Publication](https://github.com/AssiaERGUIGUE/summary-app)
 Text mining and sentiment analysis using RNNs (T5, BART...).
 
 ![Blog--text-summarization-for-nlp](assets/Blog--text-summarization-for-nlp.png)
@@ -59,12 +73,16 @@ Text mining and sentiment analysis using RNNs (T5, BART...).
 ---
 
 ###  Performance analysis using Power BI and Python
+[Publication](https://github.com/AssiaERGUIGUE/performance-analysis)
+
 ![dash](assets/dash.png)
 ![dashboard](assets/dashboard.png)
 
 ---
 
-###  Classification and clustering project on the "Wisconsin breast cancer dataset" on Kaggle using Python.
+###  Bayesian classification and clustering project on the "Wisconsin breast cancer dataset" on Kaggle using Python.
+
+[Publication](https://github.com/AssiaERGUIGUE/Classification-SVM-breast-cancer)
 
 ---
 
@@ -73,6 +91,9 @@ Text mining and sentiment analysis using RNNs (T5, BART...).
 ---
 
 ###  Creation of a predictive model:
+
+[Publication](https://github.com/AssiaERGUIGUE/HR-regression)
+
 Salaries based on employees data such as  on Kaggle.
 
 ---
