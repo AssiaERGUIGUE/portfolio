@@ -31,6 +31,16 @@ If interested in my profile, contact me using :
 - Classes préparatoires MPSI | Lycée Selmane El Farissi - Salé
 
 ## Work Experience
+**DATA SCIENCE INTERN (internship of final studies) at Moroccan customs and indirect taxes (ADII) (_26/02/2024 - ONGOING_)**
+Fraud Detection in Moroccan Customs Through Machine Learning Operations: 
+- Study of Existing Systems and Comparative Analysis
+- Data Engineering and In-Depth Preprocessing
+- Problem Solving
+- Optimization of Machine Learning Models and Pipelines
+- Implementation of an MLOps Architecture Using MLflow
+- Handling Hierarchical Data and Creating Robust Models for Fraud Detection Based on Raw Data: PyCaret, XGBoost, GANs, Variational Autoencoders, HiClass, etc.
+- Results: Creation of a model capable of detecting customs fraud without false positives despite the complex nature of the data.
+
 **INTERNSHIP of application REDAL operated by VEOLIA  (_08/08/2023 - 08/09/2023_)** at the Information Systems Department
 - Development of a stock management application.
 - Creation of a full-stack web application using the DJANGO framework for stock management.
