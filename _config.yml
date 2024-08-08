@@ -2,7 +2,7 @@ title: Assia ERGUIGUE
 logo: assets/asia cv.jpeg
 #description: text below image
 show_downloads: true
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
 gem "github-pages", group: :jekyll_plugins
